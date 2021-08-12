@@ -1,0 +1,283 @@
+/* Common Start */
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    color: #616368;
+}
+/* Common End */
+
+/* Header Start */
+header{
+    padding: 15px 0;
+}
+.a_nav{
+    background-color: white !important;
+}
+.menu{}
+.menu ul li a{
+    font-weight: 700;
+    padding-right: 45px !important;
+}
+.menu ul li a:hover{
+    color: #2500f9 !important;
+}
+.cta_button{
+    text-decoration: none;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    background-color:#2500f9;
+    border-radius: 40px;
+    padding: 10px 30px;
+    transition: 0.3s;
+}
+.b_btn{
+    color: #2500f9;
+    background-color: white;
+}
+.b_btn:hover{}
+.cta_button:hover{
+    color: white;
+    background-color:#281881;
+}
+
+/* Header End */
+
+/* Banner Start */
+.banner{
+    background-image: url(../images/bannerbgbottom.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.tagline{
+    position: relative;
+}
+.tagline i{
+    color: white;
+    padding: 5px;
+    background-color: #FEAA25;
+    display: inline-block !important;
+    position: absolute;
+    border-radius: 50%;
+}
+.tagline h6{
+    padding-left: 35px !important;
+    padding-right: 5px!important;
+    padding-bottom: 5px!important;
+    padding-top: 5px!important;
+    border-radius: 20px;
+}
+.b_text h1{
+    color: #242f51;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.b_text{
+    margin-top: 170px;
+}
+.b_text p{
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.banner_buttons{
+    margin-top: 15px !important;
+}
+/* Banner End */
+/* Clients start */
+.clients{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.cl_items p{
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.cl_items ul li{
+padding: 0 30px;
+margin-bottom: 40px;
+}
+
+/* Clients end */
+/* Feature Start */
+.feature{
+    margin-top: 50px;
+}
+.f_text{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.fs_item{
+    margin-bottom: 50px;
+}
+
+.c_title{
+    font-size: 36px;
+    color: #242f51;
+    font-weight: 600;
+}
+.f_text p{}
+}
+.f_icons{}
+.common_icon{
+    font-size: 50px;
+    padding: 15px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+.common_icon:hover{
+    transform: scale(0.8);
+}
+.i_red{
+    color: #f55767;
+    background-color: #FFECEF;
+}
+.i_blue{
+    color: #2563ff;
+    background-color: #F4F4FF;
+}
+.i_green{
+    color: #40975f;
+    background-color: #E4FEEE;
+}
+.subred{
+color: #f55767;
+}
+.subblue{
+    color: #2563ff;
+}
+.subgreen{
+    color: #40975f;
+}
+.c_subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+/* Feature End */
+
+/* Smart Start */
+.smart{
+    padding: 100px 0;
+}
+/* Feature 2 */
+.feature2{
+    margin-bottom: 100px;
+}
+
+/* Feature 2 End */
+
+/* Design Section */
+.design{
+    margin-bottom: 60px;
+}
+.d_text{
+    margin-top: 120px;
+}
+.d_text h1{
+    margin-bottom: 25px;
+}
+.d_text p{
+  margin-bottom: 40px;  
+}
+
+
+/* Design End */
+/* Why Start */
+.why{}
+.why_text {
+    margin-top: 23px;
+    margin-bottom: 40px;
+}
+.why_item{
+    margin-bottom: 30px!important;
+}
+.dblue{
+    color: #242f51;
+}
+.why_icon{f;
+    background-color: #F4F4FF;
+}
+/* Why End */
+/* Pricing Start */
+.p_basic{
+    margin-bottom: 100px;
+}
+.p_basic h1{
+    padding: 10px 0;
+    border-radius: 50px;
+}
+.c_h1{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color:#242f51;
+    background-color: #F4F4FF;
+    
+}
+
+.c_h2{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color:#242f51;
+    background-color: #F4F4FF;
+}
+
+.c_h3{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color:#242f51;
+    background-color: #F4F4FF;
+}
+
+.p_p1{
+    color: #242f51;
+    font-weight: 600;
+}
+.p_p2{
+    color: #242f51;
+    font-weight: 600;
+}
+.p_p3{
+    color: #242f51;
+    font-weight: 600;
+}
+/* Pricing End */
+
+/* Footer start */
+.footer{
+    background-color: #09142E;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f_logo{
+    margin-bottom: 15px;
+}
+.f_nav{}
+.f_nav ul{}
+.f_nav ul li a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+.f_nav ul li a:hover{
+    color: #FEAA25;
+}
+.f_social ul li i{
+    font-size: 40px;
+    padding: 10px 10px;
+    color: #273043;
+    transition: 0.3s;
+}
+.f_nav ul li i:hover{
+    color: white;
+}
+
+/* Footer End */
+
+

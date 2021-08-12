@@ -1,0 +1,312 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* Header */
+    .menu ul li a {
+        font-weight: 700;
+        text-align: right;
+        padding-right: 0 !important;
+    }
+/* Banner */
+    .b_text h1 {
+        font-size: 30px;
+    }
+    .b_text{
+        margin-top: 0;
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+    
+    .tagline i {
+        font-size: 12px;
+
+    }
+    .tagline h6 {
+        font-size: 12px;
+        padding-left: 28px!important;
+    }
+    .cta_button {
+        padding: 5px 16px;
+    }
+    .b_text p {
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+/* Clients */
+    .clients{
+        padding-top: 50px;
+        padding-bottom: 0!important;
+    }
+/* Feature */
+    .feature{
+        margin-top: 5px;
+    }
+    .c_title{
+        font-size: 30px;
+    }
+    .c_subtitle{
+        font-size: 18px;
+    }
+    .common_icon{
+        font-size: 25px;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    
+    .f_text{
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .fs_item{
+        margin-bottom: 0px;
+    }
+/* Smart */
+    .smart{
+        padding: 50px 0;
+    }
+    .smart_title{
+        font-size: 20px;
+    }
+/* Feature 2 */
+    .feature2{
+        margin-bottom: 20px;
+    }
+    .f2s_item{
+        text-align: center;
+        margin-bottom: 20px; 
+    }
+    .f2s_icon{
+        margin: 10px auto!important;
+    }
+    .f2s_text{
+        margin: 0 auto;
+    }
+    /* Design */
+    .design{
+        margin-bottom: 60px;
+    }
+    .d_text{
+        margin-top: 50px!important;
+    }
+    .d_text p{
+        margin-bottom: 30px!important;
+    }
+    /* Why */
+    .why_text {
+        margin-top: 5px;
+        margin-bottom: 25px;
+    }
+    .why_item{
+        margin-bottom: 25px!important;
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* Header */
+    .menu ul li a {
+        font-weight: 700;
+        text-align: right;
+        padding-right: 0 !important;
+    }
+    /* Banner */
+    .b_text h1 {
+        font-size: 30px;
+    }
+    .b_text{
+        margin-top: 0;
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+    
+    .tagline i {
+        font-size: 12px;
+
+    }
+    .tagline h6 {
+        font-size: 12px;
+        padding-left: 28px!important;
+    }
+    .cta_button {
+        padding: 5px 16px;
+    }
+    .b_text p {
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    /* Clients */
+    .clients{
+        padding-top: 50px;
+        padding-bottom: 0!important;
+    }
+    /* Feature */
+    .feature{
+        margin-top: 5px;
+    }
+    .c_title{
+        font-size: 30px;
+    }
+    .c_subtitle{
+        font-size: 18px;
+    }
+    .common_icon{
+        font-size: 40px;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    .f_text{
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .fs_item{
+        margin-bottom: 0px;
+    }
+    /* Smart */
+    .smart{
+        padding: 50px 0;
+    }
+    /* Smart */
+    .smart_title{
+        font-size: 20px;
+    }
+    /* Feature 2 */
+    .feature2{
+        margin-bottom: 50px;
+    }
+    .f2s_item{
+        text-align: center;
+        margin-bottom: 20px; 
+    }
+    .f2s_icon{
+        margin: 10px auto!important;
+    }
+    .f2s_text{
+        margin: 0 auto;
+    }
+    /* Design */
+    .design{
+        margin-bottom: 60px;
+    }
+    .d_text{
+        margin-top: 70px!important;
+    }
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Header */
+    .menu ul li a {
+        font-weight: 700;
+        text-align: right;
+        padding-right: 0 !important;
+    }
+    /* Banner */
+    .b_text h1 {
+        font-size: 30px;
+    }
+    .b_text{
+        margin-top: 80px;
+    }
+    .tagline i {
+        font-size: 12px;
+
+    }
+    .tagline h6 {
+        font-size: 12px;
+        padding-left: 28px!important;
+    }
+    .cta_button {
+        padding: 5px 16px;
+    }
+    .b_text p {
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    /* Feature */
+    .f_img{
+        padding: 80px 0;
+    }
+    .c_title{
+        font-size: 30px;
+    }
+    .c_subtitle{
+        font-size: 18px;
+    }
+    .common_icon{
+        font-size: 30px;
+        padding: 15px;
+        border-radius: 50%;
+    }
+    .f_text{
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .fs_item{
+        margin-bottom: 0px;
+    }
+    .smart{
+        padding: 50px 0;
+    }
+    /* Design */
+    .design{
+        margin-bottom: 60px;
+    }
+    .d_text{
+        margin-top: 70px!important;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* Header */
+.b_text h1 {
+    font-size: 40px;
+    }
+    /* Feature */
+    .feature{
+        margin-top: 10px;
+    }
+    
+    .c_title{
+        font-size: 36px;
+    }
+    .f_text{
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+    .fs_item{
+        margin-bottom: 5px;
+    }
+    /* Smart */
+    .smart_title{
+        font-size: 30px;
+    }
+    /* design section */
+    .design{
+        margin-bottom: 50px;
+    }
+    .d_text{
+        margin-top: 45px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+        .b_text h1 {
+        font-size: 40px;
+        }
+        /* Feature */
+        .f_text{
+            margin-bottom: 20px;
+            margin-top: 50px;
+        }
+        .fs_item{
+            margin-bottom: 20px;
+        }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+}
